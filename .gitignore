@@ -35,3 +35,6 @@ override.tf.json
 .terraformrc
 terraform.rc
 © 2021 GitHub, Inc.
+
+#Ignore MacOs .dstore files
+.DS_Store
